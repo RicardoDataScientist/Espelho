@@ -1,0 +1,24 @@
+# Ignorar o ambiente virtual 
+espelho/
+
+# Ignorar checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Ignorar arquivos temporários do Python
+*.pyc
+__pycache__/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar API Keys
+*.env
+
+# Ignorar Json
+*.json
+
+# Ignorar Json
+*.csv
+
+# Ignorar xlsx
+*.xlsx
